@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "goit_react_hw_7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://github.com/SarnaKhmel/goit_react_hw_7",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.3",

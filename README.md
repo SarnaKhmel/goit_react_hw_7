@@ -1,5 +1,7 @@
 # React homework template
 
+https://github.com/SarnaKhmel/goit_react_hw_7
+
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
 и настройки дополнительных возможностей
