@@ -1,0 +1,13 @@
+.filter_input {
+  border-radius: 4px;
+  width: 250px;
+  height: 20px;
+}
+
+.filter_label {
+  display: flex;
+  gap: 6px;
+  justify-content: space-between;
+  align-items: baseline;
+  font-weight: 500;
+}
