@@ -17,3 +17,13 @@ export const Item = ({ filteredContacts }) => {
     </li>
   ));
 };
+
+Item.propTypes = {
+  filteredContacts: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string.isRequired,
+      phone: PropTypes.string.isRequired,
+      id: PropTypes.string.isRequired,
+    })
+  ).isRequired,
+};
